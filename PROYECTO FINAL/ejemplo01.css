@@ -1,0 +1,36 @@
+h1{
+    color:blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size:xx-large;
+    text-align: center;
+    text-decoration-line: overline;
+    background-color: aquamarine;
+    border-radius: 151px 92px 92px 92px;
+-webkit-border-radius: 151px 92px 92px 92px;
+-moz-border-radius: 151px 92px 92px 92px;
+text-decoration: underline dotted red;
+}
+
+h2{
+    color: pink;
+    text-decoration: underline wavy lightgreen;
+}
+
+div{
+    background-color: rgb(236, 173, 212);
+    width:200px;
+    height: 400px;
+    padding: 20px;
+    margin-right: 35px;
+    text-align: justify;
+    border: 5px solid;
+    border-color: rgb(119, 157, 125);
+}
+
+.red{
+    color: tomato;
+    font-size: 25px;
+}
+
+image{position: static;
+}
